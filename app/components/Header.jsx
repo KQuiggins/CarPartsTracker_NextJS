@@ -7,11 +7,11 @@ const Header = () => {
 
   return (
     <>
-       <nav className='flex items-center justify-between px-6 py-4 mb-5 bg-blue-700'>
+       <nav className='flex items-center justify-between px-6 py-4 mb-0 bg-blue-700'>
       <div className='flex items-center'>
         <Link href='/'>
           <div className='text-lg font-bold text-white uppercase'>
-            Clerk App
+            AutoParts Outlet
           </div>
         </Link>
       </div>
